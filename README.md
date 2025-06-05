@@ -1,6 +1,6 @@
 ![](https://file.garden/aADASQgY3QmuIjC3/Untitled37_20250605160605.png)
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ RENTRY ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ATABOOK‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  MAINㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ [RENTRY](https://rentry.co/q3e2ymkz) ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ [ATABOOK‎](https://ohshc.atabook.org) ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  [MAIN](https://github.com/KyoyaOotori)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <!--
 **3OO8/3OO8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
