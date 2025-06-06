@@ -2,7 +2,7 @@
 ㅤㅤㅤㅤㅤㅤ‎ ㅤㅤ‎ㅤ ![](https://komarev.com/ghpvc/?username=3OO&color=red)
 ![](https://file.garden/aADASQgY3QmuIjC3/Untitled37_20250605160605.png)
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ [RENTRY](https://rentry.co/q3e2ymkz) ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ [ATABOOK‎](https://ohshc.atabook.org) ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  [MAIN](https://github.com/KyoyaOotori)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ [RENTRY](https://rentry.co/acr) ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ [ATABOOK‎](https://ohshc.atabook.org) ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  [MAIN](https://github.com/KyoyaOotori)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <!--
 **3OO8/3OO8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
