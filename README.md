@@ -1,5 +1,5 @@
 
-ㅤㅤㅤㅤㅤㅤ‎ ㅤㅤ‎ㅤ ![](https://komarev.com/ghpvc/?username=3OO&color=red)
+ㅤㅤㅤㅤㅤㅤ‎ ㅤㅤ‎ㅤ‎ ‎ ‎  ![](https://komarev.com/ghpvc/?username=3OO&color=red&label=+☾‎‎‧₊)
 ![](https://file.garden/aADASQgY3QmuIjC3/Untitled37_20250605160605.png)
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ [RENTRY](https://rentry.co/ACR) ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ [ATABOOK‎](https://ohshc.atabook.org) ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  [MAIN](https://github.com/KyoyaOotori)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
