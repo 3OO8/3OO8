@@ -2,7 +2,7 @@
 ㅤㅤㅤㅤㅤㅤ‎ ㅤ‎ ‎ ‎ ㅤ‎ㅤ‎ ‎ ‎  <p align="center">![](https://komarev.com/ghpvc/?username=3OO&color=red&label=+☾‎‎‧₊)</p>
 
 <p align="center">
-<img src="https://file.garden/aADASQgY3QmuIjC3/Untitled74_20250608110210__fliter--red-sunset__channel--green__mode--overlay.png" width="400" height="500" border="10"/>
+<img src="https://file.garden/aADASQgY3QmuIjC3/Untitled74_20250608110210__fliter--red-sunset__channel--green__mode--overlay.png" width="350" height="500" border="10"/>
 </p>
 
 
