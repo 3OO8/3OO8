@@ -1,10 +1,12 @@
 
-ㅤㅤㅤㅤㅤㅤ‎ ㅤ‎ ‎ ‎ ㅤ‎ㅤ‎ ‎ ‎  ![](https://komarev.com/ghpvc/?username=3OO&color=red&label=+☾‎‎‧₊)
+ㅤㅤㅤㅤㅤㅤ‎ ㅤ‎ ‎ ‎ ㅤ‎ㅤ‎ ‎ ‎  <p align="center">![](https://komarev.com/ghpvc/?username=3OO&color=red&label=+☾‎‎‧₊)</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&size=10&pause=1000&color=FF5353CB&center=true&vCenter=true&multiline=true&width=500&lines=%E5%8F%A3%E3%81%AB%E5%87%BA%E3%81%99%E3%81%AE%E3%81%AF%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E6%99%82+;%E3%81%9D%E3%82%8C%E3%81%8C%E3%82%AB%E3%83%83%E3%82%B3%E3%82%A4%E3%82%A4%E3%81%93%E3%81%A8)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://file.garden/aADASQgY3QmuIjC3/Untitled74_20250608110210__fliter--red-sunset__channel--green__mode--overlay.png" width="400" height="600" border="10"/>
+</p>
 
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ [RENTRY](https://rentry.co/ACR) ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ [ATABOOK‎](https://ohshc.atabook.org) ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  [MAIN](https://github.com/KyoyaOotori)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ <p align="center">[RENTRY](https://rentry.co/ACR) ‎ ‎ ‎ ‎‎ ‎ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ‎‎ ‎ ‎ [ATABOOK‎](https://ohshc.atabook.org) ‎ ‎ ‎ ‎ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ‎ ‎ ‎‎ ‎  [MAIN](https://github.com/KyoyaOotori)</p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <!--
 **3OO8/3OO8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
