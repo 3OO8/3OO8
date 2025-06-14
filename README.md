@@ -1,8 +1,8 @@
 
-ㅤㅤㅤㅤㅤㅤ‎ ㅤ‎ ‎ ‎ ㅤ‎ㅤ‎ ‎ ‎  <p align="center">![](https://komarev.com/ghpvc/?username=KyoyaOotori&color=red&label=+☾‎‎‧₊)</p>
+ㅤㅤㅤㅤㅤㅤ‎ ㅤ‎ ‎ ‎ ㅤ‎ㅤ‎ ‎ ‎  <p align="center">![](https://komarev.com/ghpvc/?username=KyoyaOotori&color=blueviolet&label=+☾‎‎‧₊)</p>
 
 <p align="center">
-<img src="https://file.garden/aADASQgY3QmuIjC3/Untitled74_20250608110210__fliter--red-sunset__channel--green__mode--overlay.png" width="350" height="500" border="10"/>
+<img src="https://file.garden/aADASQgY3QmuIjC3/Untitled83_20250614153924.png" width="450" height="350" border="10"/>
 </p>
 
 
