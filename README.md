@@ -6,7 +6,7 @@
 </p>
 
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ <p align="center">[RENTRY](https://rentry.co/ACR) ‎ ‎ ‎ ‎‎ [ATABOOK‎](https://ohshc.atabook.org) ‎ ‎ ‎ ‎ ‎ [MAIN](https://github.com/KyoyaOotori)</p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ <p align="center">[RENTRY](https://rentry.co/ACR) ‎ ‎ ‎ ‎‎ [ATABOOK‎](https://ohshc.atabook.org)</p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <!--
 **3OO8/3OO8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
